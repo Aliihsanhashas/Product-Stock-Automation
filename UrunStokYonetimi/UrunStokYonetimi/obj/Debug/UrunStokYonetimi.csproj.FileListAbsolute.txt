@@ -1,0 +1,17 @@
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\bin\Debug\UrunStokYonetimi.exe.config
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\bin\Debug\UrunStokYonetimi.exe
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\bin\Debug\UrunStokYonetimi.pdb
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.csproj.AssemblyReference.cache
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmMusteriEkle.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.Properties.Resources.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.csproj.GenerateResource.cache
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.exe
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.pdb
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmSatis.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmMusteriListele.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmKategori.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmMarka.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmUrunEkle.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmUrunListele.resources
+C:\Users\aliih\source\repos\UrunStokYonetimi\UrunStokYonetimi\obj\Debug\UrunStokYonetimi.frmSatisListele.resources
