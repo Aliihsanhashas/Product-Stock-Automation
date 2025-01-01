@@ -16,7 +16,7 @@ This project aims to develop a product stock management system. Users can add, u
 
 ## Technologies
 - **Backend:**
-  - C# and .NET 
+  - C# 
 - **Database:**
   - Microsoft SQL Server
 - **Other Tools:**
